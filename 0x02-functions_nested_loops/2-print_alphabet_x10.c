@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_10times_alphabet - utilizes on the _putchar function to 
+ * print_10times_alphabet - utilizes on the _putchar function to
  *			print 10 times alphabet
  */
 
